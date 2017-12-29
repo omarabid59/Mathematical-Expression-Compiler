@@ -1,3 +1,4 @@
-# EECS 33110 Software Design 
+# Mathematical Expression Compiler
 
-1. Developed in the Eiffel Testing Framework (ETF)
+Designed for EECS 3311 Software Design as a final project at York University. Developed in the Eiffel Testing Framework (ETF)
+
